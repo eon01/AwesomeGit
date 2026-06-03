@@ -6,9 +6,7 @@ A curated list of tools and utilities that enhance the Git experience, from GUI 
 
 Fork and contribute if you have a favorite Git tool that isn't listed here! Only free, open-source, or freemium tools are included. Tools must be actively maintained and have a clear focus on enhancing Git workflows.
 
-
 [![](images/LearnGitinaDay.png)](https://faun.dev/sensei/academy/learn-git-in-a-day-fae561-02e121-dfadb8-e2e0a6-4bc/)
-
 
 ## GUI Clients
 
