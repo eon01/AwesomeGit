@@ -124,6 +124,7 @@ Fork and contribute if you have a favorite Git tool that isn't listed here! Only
 * [git-annex](https://git-annex.branchable.com/): Manage large files with Git-backed metadata.
 * [gitfs](https://www.presslabs.com/gitfs/): Expose Git data through a FUSE filesystem.
 * [Gitless](https://gitless.com/): Experimental version control system built on Git ideas.
+* [gity](https://github.com/neul-labs/gity): Cross-platform Rust daemon that accelerates Git on large repos via the fsmonitor protocol.
 
 ## Repository Utilities
 
