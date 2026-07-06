@@ -95,6 +95,7 @@ Fork and contribute if you have a favorite Git tool that isn't listed here! Only
 ## Security and Signing
 
 * [gitleaks](https://github.com/gitleaks/gitleaks): Scan repositories and history for secrets.
+* [Sentinel](https://github.com/sentinel-cli/sentinel): Statically compiled, zero-dependency Git pre-commit secret detector written in Go.
 * [trufflehog](https://github.com/trufflesecurity/trufflehog): Find credentials and secrets in Git data.
 * [git-crypt](https://github.com/AGWA/git-crypt): Transparent file encryption inside Git repositories.
 * [git-secret](https://github.com/sobolevn/git-secret): Store encrypted secrets in Git.
