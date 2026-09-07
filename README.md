@@ -51,6 +51,7 @@ Fork and contribute if you have a favorite Git tool that isn't listed here! Only
 * [delta](https://github.com/dandavison/delta): Better diff pager with syntax highlighting.
 * [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt): Rich Bash prompt for Git repositories.
 * [Starship](https://starship.rs/): Fast cross-shell prompt with Git context.
+* [git-tailor](https://github.com/jordfras/git-tailor): An interactive terminal tool for tidying up Git commits on a branch.
 
 ## Hooks and Quality Gates
 
