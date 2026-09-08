@@ -91,6 +91,7 @@ Fork and contribute if you have a favorite Git tool that isn't listed here! Only
 * [release-it](https://github.com/webpro/release-it): Automate releases, tags, and changelog generation.
 * [git-town](https://github.com/git-town/git-town): Automate common Git branching workflows.
 * [gitflow](https://github.com/nvie/gitflow): Command-line helpers for the Git Flow model.
+* [git-why](https://github.com/maledadams/git-why): Record why each commit exists as native git trailers, so the reasoning survives clone/push and shows in `git log`.
 
 ## Security and Signing
 
