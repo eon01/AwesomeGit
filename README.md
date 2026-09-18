@@ -89,6 +89,7 @@ Fork and contribute if you have a favorite Git tool that isn't listed here! Only
 * [commitlint](https://github.com/conventional-changelog/commitlint): Lint commit messages against chosen conventions.
 * [Commitizen](https://github.com/commitizen/cz-cli): Standardize commit messages with guided prompts.
 * [release-it](https://github.com/webpro/release-it): Automate releases, tags, and changelog generation.
+* [relnote](https://github.com/loki-inu/relnote): Offline stdlib Python CLI and GitHub Action for conventional-commit GitHub release notes.
 * [git-town](https://github.com/git-town/git-town): Automate common Git branching workflows.
 * [gitflow](https://github.com/nvie/gitflow): Command-line helpers for the Git Flow model.
 
