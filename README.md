@@ -74,6 +74,7 @@ Fork and contribute if you have a favorite Git tool that isn't listed here! Only
 * [gitbackup](https://github.com/amitsaha/gitbackup): Back up GitHub, GitLab, and Bitbucket repositories.
 * [soba](https://github.com/jonhadfield/soba): Scheduled repository backups with change detection.
 * [ghq](https://github.com/motemen/ghq): Organize and clone remote repositories into a clean local structure.
+* [gm](https://github.com/jedipunkz/gm): ghq-style repository manager with a built-in fuzzy finder, frecency ranking, and Git worktree browsing.
 
 ## History Rewriting and Cleanup
 
